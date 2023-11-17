@@ -1,0 +1,6 @@
+1.Choose the location in google map
+2.Find the share option. Choose embed tag in share.
+3.Copy the iframe link and paste it in your html file. Now you can view the map in your result.
+4.To make map responsive place the iframe inside the div tag. And then make the position of top and left of the div tag as absolute. 
+And make the iframe position as relative in style/css file.
+5.You can change the height and the width of the map by changing the height and width of the iframe tag
